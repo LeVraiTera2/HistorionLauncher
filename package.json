@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "1.2.",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "name": "Historion",
+    "preductname": "Historion Launcher",
+    "version": "1.2.8",
+    "description": "Historion Launcher",
     "main": "src/app.js",
-    "author": "Luuxis",
-    "url": "http://craftdium.ml/launcherSelvania",
+    "author": "Tera2",
+    "url": "http://193.38.250.12:25556/",
     "engines": {
         "node": "^18.x.x"
     },
@@ -32,6 +32,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/LeVraiTera2/HistorionLauncher.git"
     }
 }
